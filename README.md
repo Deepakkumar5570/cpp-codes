@@ -1,2 +1,2 @@
-this is my DSA program code 
-where i learn about so many types of data structure and algorithms 
+This is my DSA Program code 
+where I learn about so many types of data structure and algorithms 
